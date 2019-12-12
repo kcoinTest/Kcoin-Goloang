@@ -41,7 +41,6 @@ func getMemberListQuery() string {
 	//	"(SELECT user_id FROM \"K_User_in_Project\" WHERE project_id = ?)"
 }
 
-
 //测试
 //func main() {
 //	fmt.Print(GetAllJoinedProjects("1" ))
