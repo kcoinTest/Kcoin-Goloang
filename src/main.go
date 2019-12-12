@@ -1,5 +1,4 @@
 package main
-
 import (
 	_ "HelloWebProject/routers"
 	"github.com/astaxie/beego"
